@@ -1,0 +1,7 @@
+server:
+    build: .
+    command: python blueprintexample.py
+    ports:
+        - "5000:5000"
+    volumes:
+        - .:/code
