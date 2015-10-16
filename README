@@ -1,1 +1,3 @@
 Here are examples from PyConPL2015 "Dokku. Build your own PaaS" speech. You can find and recall more details from the speed by taking a look on my article in your conference textbooks. Pay attention, that Dokku doesn't use buildstep anymore. They use herokuish instead of it from September 2015.
+
+To start playing with Dokku on examples from the speech, you need to copy any example from this repository, init git repository there and follow guidelines I've showed in my demo or wrote in the article.
